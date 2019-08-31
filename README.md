@@ -1,21 +1,23 @@
 # LabVIEW-VI-for-MAXON-EPOS4
 This repository contains customized LabVIEW VIs used for commanding MAXON EPOS4 motor controller via CANopen
 
-# ===== AFO_NLF =====
-# - read encoder from channel B/ENC
-# - Mathscript contains code for Adaptive frequency oscillator and nonlinear filter
+===== AFO_NLF =====
+  - read encoder from channel B/ENC
+  - Mathscript contains code for Adaptive frequency oscillator and nonlinear filter
 
+===== BinaryData =====
+  - convert .bin to .csv
+ 
+===== DAQ_LowLevelVI =====
+  - test analog and digital inputs
 
-# ===== BinaryData =====
-# - convert .bin to .csv
+===== Vibrator_test =====
+  - analog output with duty cycle
 
-# ===== DAQ_LowLevelVI =====
-# - test analog and digital inputs
+===== STO_Recover =====
+  - reset EPOS4 after emergency stop
 
-# ===== STO_Recover =====
-# - reset EPOS4 after emergency stop
-
-# ===== XCAN =====
-# Enable_&_Disable: SDO
-# PDO_Enable_&_Disable: PDO
-# W_Vel__R_Crt: command velocity and read current
+===== XCAN =====
+  Enable_&_Disable: SDO
+  PDO_Enable_&_Disable: PDO
+  W_Vel__R_Crt: command velocity and read current
