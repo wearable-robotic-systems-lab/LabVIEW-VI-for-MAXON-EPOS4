@@ -18,6 +18,6 @@ This repository contains customized LabVIEW VIs used for commanding MAXON EPOS4 
   - reset EPOS4 after emergency stop
 
 ===== XCAN =====
-  Enable_&_Disable: SDO
-  PDO_Enable_&_Disable: PDO
-  W_Vel__R_Crt: command velocity and read current
+  * Enable_&_Disable: SDO
+  * PDO_Enable_&_Disable: PDO
+  * W_Vel__R_Crt: command velocity and read current
