@@ -3,7 +3,7 @@ This repository contains customized LabVIEW VIs used for commanding MAXON EPOS4 
 
 ===== AFO_NLF =====
   - read encoder from channel B/ENC
-  - Mathscript contains code for Adaptive frequency oscillator and nonlinear filter
+  - Mathscript contains code for Adaptive-Frequency-Oscillator and Nonlinear-Filter
 
 ===== BinaryData =====
   - convert .bin to .csv
