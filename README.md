@@ -11,9 +11,6 @@ This repository contains customized LabVIEW VIs used for commanding MAXON EPOS4 
 ===== DAQ_LowLevelVI =====
   - test analog and digital inputs
 
-===== Vibrator_test =====
-  - analog output with duty cycle
-
 ===== STO_Recover =====
   - reset EPOS4 after emergency stop
 
